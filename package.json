@@ -1,0 +1,16 @@
+{
+  "name": "phaser3-typescript-vite-template",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.53.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.3",
+    "vite": "^2.0.5"
+  }
+}
